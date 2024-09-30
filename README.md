@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NautaDevs/theme-store/refs/heads/main/nauta-blue.png" align="left" width="200"/>
+<img src="[https://raw.githubusercontent.com/NautaDevs/theme-store/refs/heads/main/nauta-blue.png](https://raw.githubusercontent.com/NautaDevs/theme-store/52c6d8c3cbb43c9ffee3792bac1b893eb96468b6/nauta-blue.svg)" align="left" width="200"/>
 
 ### `Theme Respiratory`
 
