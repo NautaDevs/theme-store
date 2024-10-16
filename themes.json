@@ -18,5 +18,35 @@
         "author": "ItsFebiven",
         "version": "1.0.0",
         "isDarkMode": true
+    },
+    "7c8c5e04-beb7-4e9b-af49-8c9e60cb0927": {
+        "id": "7c8c5e04-beb7-4e9b-af49-8c9e60cb0927",
+        "name": "Galaxy",
+        "download": "https://raw.githubusercontent.com/NautaDevs/theme-store/8938eec6ecbd2247bb067ce2916b268dd3f72d7c/themes/7c8c5e04-beb7-4e9b-af49-8c9e60cb0927/Galaxy.nauta", 
+        "preferences": "https://raw.githubusercontent.com/NautaDevs/theme-store/8938eec6ecbd2247bb067ce2916b268dd3f72d7c/themes/7c8c5e04-beb7-4e9b-af49-8c9e60cb0927/theme.json", 
+        "image": "https://i.imgur.com/Si2kQVS.png",
+        "author": "candy",
+        "version": "1.0.0",
+        "isDarkMode": true
+    },
+    "92cf5870-49bd-4c7b-9f73-72378ad6559c": {
+        "id": "92cf5870-49bd-4c7b-9f73-72378ad6559c",
+        "name": "Galaxy",
+        "download": "https://raw.githubusercontent.com/NautaDevs/theme-store/8938eec6ecbd2247bb067ce2916b268dd3f72d7c/themes/92cf5870-49bd-4c7b-9f73-72378ad6559c/Retro.nauta", 
+        "preferences": "https://raw.githubusercontent.com/NautaDevs/theme-store/8938eec6ecbd2247bb067ce2916b268dd3f72d7c/themes/92cf5870-49bd-4c7b-9f73-72378ad6559c/theme.json", 
+        "image": "https://i.imgur.com/ZLYXZuG.png",
+        "author": "candy",
+        "version": "1.0.0",
+        "isDarkMode": true
+    },
+    "2286af83-7b6d-489d-b5f7-ccbe96c5d992": {
+        "id": "2286af83-7b6d-489d-b5f7-ccbe96c5d992",
+        "name": "Planet",
+        "download": "https://raw.githubusercontent.com/NautaDevs/theme-store/8938eec6ecbd2247bb067ce2916b268dd3f72d7c/themes/2286af83-7b6d-489d-b5f7-ccbe96c5d992/Planet.nauta", 
+        "preferences": "https://raw.githubusercontent.com/NautaDevs/theme-store/8938eec6ecbd2247bb067ce2916b268dd3f72d7c/themes/2286af83-7b6d-489d-b5f7-ccbe96c5d992/theme.json", 
+        "image": "https://i.imgur.com/ZLYXZuG.png",
+        "author": "candy",
+        "version": "1.0.0",
+        "isDarkMode": true
     }
 }
