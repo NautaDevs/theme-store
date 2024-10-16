@@ -31,7 +31,7 @@
     },
     "92cf5870-49bd-4c7b-9f73-72378ad6559c": {
         "id": "92cf5870-49bd-4c7b-9f73-72378ad6559c",
-        "name": "Galaxy",
+        "name": "Retro",
         "download": "https://raw.githubusercontent.com/NautaDevs/theme-store/8938eec6ecbd2247bb067ce2916b268dd3f72d7c/themes/92cf5870-49bd-4c7b-9f73-72378ad6559c/Retro.nauta", 
         "preferences": "https://raw.githubusercontent.com/NautaDevs/theme-store/8938eec6ecbd2247bb067ce2916b268dd3f72d7c/themes/92cf5870-49bd-4c7b-9f73-72378ad6559c/theme.json", 
         "image": "https://i.imgur.com/ZLYXZuG.png",
@@ -44,7 +44,7 @@
         "name": "Planet",
         "download": "https://raw.githubusercontent.com/NautaDevs/theme-store/8938eec6ecbd2247bb067ce2916b268dd3f72d7c/themes/2286af83-7b6d-489d-b5f7-ccbe96c5d992/Planet.nauta", 
         "preferences": "https://raw.githubusercontent.com/NautaDevs/theme-store/8938eec6ecbd2247bb067ce2916b268dd3f72d7c/themes/2286af83-7b6d-489d-b5f7-ccbe96c5d992/theme.json", 
-        "image": "https://i.imgur.com/ZLYXZuG.png",
+        "image": "https://i.imgur.com/gceB2oI.png",
         "author": "candy",
         "version": "1.0.0",
         "isDarkMode": true
